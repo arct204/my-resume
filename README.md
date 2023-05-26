@@ -1,3 +1,4 @@
 # My Resume
 
-## This project consists of creating my resume as a website. Only HTML was used.
+## This project is my resume created as an HTML-based website, which showcases my experience, skills and qualifications.
+
